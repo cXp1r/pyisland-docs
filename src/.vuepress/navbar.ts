@@ -20,5 +20,15 @@ export default navbar([
     text: "分支版本",
     icon: "code-branch",
     link: "/branches/pyislandPyside6.html",
+  },
+  {
+    text: "主站",
+    icon: "globe",
+    link: "https://pyisland.com",
+  },
+  {
+    text: "下载",
+    icon: "download",
+    link: "https://pyisland.com/#download",
   }
 ]);
