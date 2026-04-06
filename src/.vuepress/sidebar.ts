@@ -9,6 +9,7 @@ export default sidebar({
         "/guide/",
         "/guide/pyislandPyside6",
         "/guide/tauri-island",
+        "/guide/eisland",
         "/guide/features",
       ],
     },
