@@ -6,12 +6,18 @@ author: cXp1r
 ---
 
 ## 如何使用github
+:::warning 
+此篇文档暂未完善,但不妨碍阅读
+:::
+
 :::info
 这里只介绍与反馈有关的功能,如果您连github都不会使用,不建议二次开发,反馈即可
 :::
 :::tip 快捷方式
-[star](#star-收藏)
-[提issues](#如何提issues)
+| 名称 | 备注 | 
+|------|--------|
+|[star](https://github.com/Python-island/Python-island)|不妨给个star喵~ 跳转后点击右上角的星星即可|
+|[反馈](/guide/github/issues.html#如何提issues)|这里可以查看如何反馈|
 :::
 ### 仓库界面
 此处就以本项目[仓库](https://github.com/Python-island/Python-island)为介绍,

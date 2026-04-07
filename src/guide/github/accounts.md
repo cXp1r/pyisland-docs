@@ -4,6 +4,9 @@ icon: lightbulb
 order: 1
 author: cXp1r
 ---
+:::warning 
+此篇文档暂未完善,但不妨碍阅读
+:::
 
 :::tip
 据统计，有 11.4514% 的人点了这个按钮：[点击此处跳过本章](/guide/github/functions.html)。没账户的别点。

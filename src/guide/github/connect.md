@@ -6,6 +6,9 @@ author: cXp1r
 ---
 
 # 如何畅联github
+:::warning 
+此篇文档暂未完善,但不妨碍阅读
+:::
 
 
 ::: info
