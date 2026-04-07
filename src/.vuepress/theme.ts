@@ -24,7 +24,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "<a href='https://beian.miit.gov.cn/' target='_blank'>苏ICP备...号</a> | <img src='/gabatb.png' alt='公安备案图标' style='height:16px;vertical-align:middle;margin-right:4px;'><a href='https://beian.mps.gov.cn/#/query/webSearch?code=...' target='_blank'>苏公网安备...号</a>",
+  footer: "<a href='https://beian.miit.gov.cn/' target='_blank'>苏ICP备2026009305号-2</a> | <img src='/gabatb.png' alt='公安备案图标' style='height:16px;vertical-align:middle;margin-right:4px;'><a href='https://beian.mps.gov.cn/#/query/webSearch?code=32011502013770' target='_blank'>苏公网安备32011502013770号</a>",
   displayFooter: true,
 
   // 多语言配置

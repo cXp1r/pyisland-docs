@@ -9,6 +9,7 @@ export default sidebar({
         "/guide/",
         "/guide/pyislandPyside6",
         "/guide/tauri-island",
+        "/guide/eisland",
         "/guide/features",
       ],
     },
@@ -32,7 +33,8 @@ export default sidebar({
         "/branches/pyislandPyside6",
         "/branches/pyislandQT",
         "/branches/tauri-island",
-        "/branches/pyisland-wanku"
+        "/branches/pyisland-wanku",
+        "/branches/eisland"
       ],
     },
   ],
